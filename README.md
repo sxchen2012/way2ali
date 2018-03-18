@@ -4,7 +4,7 @@
 2、良好的英文读写能力；</br>
 3、丰富的Python或Go开发经验，了解设计模式；</br>
 4、丰富的大规模Linux服务器管理经验，包括Nginx/Apache/HAProxy/Keepalived/iptables/Redis/MongoDB/Memcached/RabbitMQ/Galera等；</br>
-5、熟悉配置管理工具（Ansible/Puppet/Salt/Chef 一到两种）；</br></br>
+5、熟悉配置管理工具（Ansible/Puppet/Salt/Chef 一到两种）；</br>
 6、了解MySQL；</br>
 7、了解DevOps理念；</br>
 8、了解Django、Fabric、Single Page Application；</br>
